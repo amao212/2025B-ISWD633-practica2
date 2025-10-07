@@ -20,6 +20,9 @@ docker run -d --name <nombre contenedor> -e <nombre variable1>=<valor1> -e <nomb
 
 <img width="1079" height="77" alt="image" src="https://github.com/user-attachments/assets/106de995-36b9-4af1-ac4a-b6cff794dbf1" />
 
+<img width="488" height="47" alt="image" src="https://github.com/user-attachments/assets/d042c433-d915-48cd-98d9-decb36457c1c" />
+
+
 <img width="927" height="648" alt="image" src="https://github.com/user-attachments/assets/8db6951e-5b9f-4076-a8f8-3653b8bcf906" />
 
 
