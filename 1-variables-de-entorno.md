@@ -52,4 +52,8 @@ no
 # CAPTURA CON LA COMPROBACIÓN DE LA CREACIÓN DE LAS VARIABLES DE ENTORNO DEL CONTENEDOR ANTERIOR 
 
 ### ¿Qué bases de datos existen en el contenedor creado?
+
+<img width="932" height="721" alt="image" src="https://github.com/user-attachments/assets/d5a9f099-2fa2-4f54-9b15-f705104c3b80" />
+
+
 # COMPLETAR
