@@ -31,6 +31,9 @@ docker run -d --name <nombre contenedor> -e <nombre variable1>=<valor1> -e <nomb
 # COMPLETAR
 
 ### ¿El contenedor se está ejecutando?
+
+no
+
 # COMPLETAR
 
 ### Identificar el problema
