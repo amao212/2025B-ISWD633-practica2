@@ -29,3 +29,7 @@ La figura presenta el esquema creado en donde los puertos son:
 # COMPLETAR
 ### Realizar un select *from personas
 # AGREGAR UNA CAPTURA DE PANTALLA DEL RESULTADO
+
+
+<img width="1899" height="1367" alt="image" src="https://github.com/user-attachments/assets/a8c28ed4-79ba-44af-b510-fbbaad762145" />
+
