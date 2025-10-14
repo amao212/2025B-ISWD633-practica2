@@ -6,9 +6,9 @@
 # COMPLETAR
 
 La figura presenta el esquema creado en donde los puertos son:
-- a: (completar con el valor)
-- b: (completar con el valor)
-- c: (completar con el valor)
+- a: puerto pgAdmin en host 5050
+- b: puerto interno pgAdmin 80
+- c: puerto de PostgresSQL(host y contenedor) 5432
 
 ![Imagen](esquema-2-ejercicio.PNG)
 
