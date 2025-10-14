@@ -33,3 +33,4 @@ La figura presenta el esquema creado en donde los puertos son:
 
 <img width="1899" height="1367" alt="image" src="https://github.com/user-attachments/assets/a8c28ed4-79ba-44af-b510-fbbaad762145" />
 
+<img width="397" height="238" alt="image" src="https://github.com/user-attachments/assets/1f9e987a-dfaa-49b5-9596-3ca58670ecae" />
