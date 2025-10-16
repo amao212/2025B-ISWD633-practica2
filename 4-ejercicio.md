@@ -27,6 +27,9 @@ Ingresar a: http://localhost:9300/
 recordar que a es el puerto que usó para el mapeo con wordpress
 # COLOCAR UNA CAPTURA DEL SITO EN DONDE SEA VISIBLE LA PUBLICACIÓN.
 
+<img width="1911" height="972" alt="image" src="https://github.com/user-attachments/assets/d9b3dfdb-9fce-4e3e-9e4b-d791bd78abfe" />
+
+
 ### Eliminar el contenedor wordpress
 # COMPLETAR
 
@@ -36,4 +39,6 @@ recordar que a es el puerto que usó para el mapeo con wordpress
 
 ### ¿Qué ha sucedido, qué puede observar?
 # COMPLETAR
+
+Al eliminar y volver a crear el contenedor de wordpress e ingresar a la página, esta esta en blanco, posiblemente debido a algunos archivos que quedaron de la anterior instalación.
 
