@@ -2,6 +2,12 @@
 Comparando sus conocimientos antes de hacer la práctica con sus conocimientos después de hacer la tarea, explicar los principales aprendizajes logrados para beneficio de su formación profesional.  
 Si solucionó un problema presentado al realizar la práctica también se debe documentar.
 
+Los conocimientos obtenidos en primer lugar las variables de entorno, esto ayudo mas en la parte de base de datos debido a que se debian configurar el usuario root, otro usuario, correo y contraseña, depende de la base de dato y la documentación de docker hub.
+
+Luego, aprendi como conectar un contenedor postgres y un cliente, par poder crear una base de datos, luego en la parte de redes aprendí a crear reder de tipo bridge, con la cual puedo asociar a los contenedores y ya no tendria que exponer los puertos, solo se expondria los puertos de host y contenedor.
+
+En el ultimo ejercio se tuvo que crear una red para poner un contenedor mysql y conectarlo con un contenedor wordpress la cual se hizo correctamente, hubo algunos problemas al poner la base de datos pero al ultimo se soluciono.
+
 
 Consultar: Cómo se gestionan datos confidenciales con los secretos de Docker (Docker Secrets).
 
@@ -17,25 +23,10 @@ Cuando el contenedor se deteniene, el secreto se elimina automáticamente.
 
 
 
-docker run -d --name mi_postgres -e POSTGRES_USER=postgres -e POSTGRES_PASSWORD=12345 -e POSTGRES_DB=postgres -p 5432:5432 postgres:15-alpine3.21
 
 
-docker run -d --name mi_pgadmin -e PGADMIN_DEFAULT_EMAIL=admin@admin.com -e PGADMIN_DEFAULT_PASSWORD=admin -p 5050:80 dpage/pgadmin4
 
 
-docker exec -it mi_postgres psql -U postgres
-
-
-CREATE DATABASE info;
-
-\c info
-
-CREATE TABLE personas(
-info(# id SERIAL PRIMARY KEY,
-info(# nombre VARCHAR(100)
-info(# );
-
-INSERT INTO personas (nombre) VALUES ('Angel Anguaya'), ('Maria Perez');
 
 
 
