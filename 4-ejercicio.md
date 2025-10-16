@@ -19,6 +19,7 @@ Ingresar desde el navegador al wordpress y finalizar la configuración de instal
 
 <img width="1402" height="960" alt="image" src="https://github.com/user-attachments/assets/78382338-241d-49bc-add9-94b2332c1120" />
 
+<img width="1308" height="652" alt="image" src="https://github.com/user-attachments/assets/8f3aeba7-7f99-4a59-89c3-0d0d278ca1ab" />
 
 
 Desde el panel de admin: cambiar el tema y crear una nueva publicación.
